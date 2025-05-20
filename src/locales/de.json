@@ -1,0 +1,150 @@
+{
+  "interim": "Interim CMO & CBO",
+  "services": "Dienstleistungen",
+  "experience": "Erfahrung",
+  "about": "Über uns",
+  "keepInTouch": "Kontakt aufnehmen →",
+  "contact_title": "Kontakt aufnehmen",
+  "drop_message": "Schreib mir eine Nachricht",
+  "response_note": "Ich melde mich so schnell wie möglich zurück.",
+  "full_name": "Vollständiger Name",
+  "company_name": "Firmenname",
+  "work_email": "Geschäftliche E-Mail",
+  "subject": "Betreff",
+  "message": "Nachricht",
+  "send": "Senden",
+  "phone_label": "Support",
+  "email_label": "Buchungsanfrage",
+  "about_title": "Über THE BRAND NAVIGATION",
+  "about_intro_1": "Interim CMO & CBO Services für Marken im Wandel.",
+  "about_intro_2": "Ich leite Marketing, Marke und MarTech mit Klarheit, Tempo und strategischem Fokus.",
+  "about_deliver": "Was ich liefere:",
+  "about_items": [
+    "Klare Positionierung",
+    "Skalierbare Strategie",
+    "Integriertes MarTech",
+    "Abgestimmte Teams",
+    "Messbares Wachstum"
+  ],
+  "about_impact": "Executive-Level-Impact. Dann und dort, wo es zählt.",
+  "step_marketing": "Interim Marketing\nLeitung",
+  "step_marketing2":"Führung",
+  "step_reference": "Referenzen\n/Marken",
+  "step_target": "Zielgruppe",
+  "step_collaborative": "Vision\nMission\nWerte",
+  "alt": {
+    "strategy": "Marketingstrategie",
+    "flag": "Flaggensymbol",
+    "health": "Gesundheitssymbol",
+    "route": "Routen-Symbol",
+    "network": "Netzwerk-Symbol"
+  },
+  "interim-title": "Interim Marketing Leitung",
+  "intro_part1": "Ich führe Marketing durch Wandel – flexibel, schnell und ergebnisorientiert.",
+  "intro_part2": "Von Transformation bis Markteintritt bringe ich strategische Klarheit, Umsetzung und Kontinuität.",
+  "points": {
+    "core_strength": {
+      "title": "Kernkompetenz:",
+      "description": "C-Level Marketing Führung, Komplexe Projektabwicklung."
+    },
+    "industry_focus": {
+      "title": "Branchenfokus:",
+      "description": "Automobil & Mobilität, B2B, Gastgewerbe."
+    },
+    "network": {
+      "title": "Netzwerk:",
+      "description": "Ein vertrauenswürdiges Netzwerk von Strategen, Kreativen und Technik-Spezialisten."
+    }
+  },
+    "sectionTitle": "ZIELGRUPPEN",
+  "sectionSubtitle": "Markenstärke und Marketingleistung – in jeder Wachstumsphase",
+
+  "startup": {
+    "title": "Start-up",
+    "offerTitle": "Angebot für Start-ups",
+    "subtitle": "Strategieaufbau von Anfang an",
+    "points": [
+      "Entwicklung einer klaren Marketingstrategie und Positionierung für einen starken Start.",
+      "Aufbau einer unverwechselbaren, skalierbaren Markenidentität über alle Kanäle.",
+      "Erstellung von Marketing-Frameworks, die mit dem Unternehmen wachsen.",
+      "Abstimmung von Produkt, Marketing und Vertrieb von Beginn an.",
+      "Flexible, erfahrene Führung ohne langfristige Fixkosten."
+    ]
+  },
+
+  "scaleups": {
+    "title": "Scale-ups",
+    "offerTitle": "Angebot für Scale-ups",
+    "subtitle": "Wachstum strategisch strukturieren",
+    "points": [
+      "Stärkung der Marketingstrategie zur Unterstützung schneller Expansion.",
+      "Professionalisierung des Markenmanagements für Konsistenz über Märkte hinweg.",
+      "Optimierung von Marketingprozessen und interner Zusammenarbeit.",
+      "Klare Positionierung von Innovationen für neue und bestehende Zielgruppen.",
+      "Senior-Expertise zur Unterstützung von Teams bei Skalierungsherausforderungen."
+    ]
+  },
+
+  "established": {
+    "title": "Etablierte Unternehmen",
+    "offerTitle": "Angebot für etablierte Unternehmen",
+    "subtitle": "Marke neu beleben",
+    "points": [
+      "Neupositionierung von Marke und Marketing für sich verändernde Märkte.",
+      "Modernisierung des Marken- und Kundenerlebnismanagements.",
+      "Abbau von Silos zwischen Marketing, Vertrieb und Kommunikation.",
+      "Führung von digitaler Transformation & KI-Initiativen im Einklang mit Markenstrategien.",
+      "Externe Führung zur Umsetzung von Wandel bei gleichzeitigem Erhalt der Markenwerte."
+    ]
+  },
+
+  "footer": {
+    "free": "Kostenlos",
+    "firstAppointment": "Zum Erstgespräch",
+    "cta": "Lass uns sprechen"
+  },
+  "leadership_main": "Kooperative Führung",
+  "leadership_description": "Mein Führungsstil ist integrativ und funktionsübergreifend – besonders wertvoll während Transformationen, wenn Abstimmung und Klarheit entscheidend sind.",
+
+  "point_title_one": "Teamstruktur",
+  "point_body_one": "Ich analysiere und optimiere Teams, schließe Kompetenzlücken und stimme Rollen auf strategische Ziele ab.",
+
+  "point_title_two": "Anpassungsfähigkeit",
+  "point_body_two": "Ich finde mich schnell in neue Branchen und Teams ein und fördere Wandel mit klarer Strategie, Kommunikation und Feingefühl.",
+
+  "pillar_heading_one": "Leitgedanke",
+  "pillar_text_one": "Ich unterstütze Marken durch Wandel – mit Klarheit, Kreativität und datenbasierter Denkweise. Strategie wird zum Kompass statt zur Einschränkung.",
+
+  "pillar_heading_two": "Zukunftsbild",
+  "pillar_text_two": "Ich verstehe Markenführung als proaktive Navigation – agil, inspirierend und zukunftsorientiert. Flexible Marken ermöglichen echten Fortschritt.",
+
+  "pillar_heading_three": "Grundwerte",
+  "pillar_text_three": "Agilität – Wandel ist die Norm; Anpassungsfähigkeit ist entscheidend. Voraussicht – Ich verbinde Strategie mit kulturellem und technologischem Wandel. Klarheit – Eine klare Positionierung und eindeutige Stimme zählen. Zusammenarbeit – Vertrauen und gemeinsamer Zweck stehen im Zentrum. Strategie ist ein Horizont, kein fixer Pfad.",
+  "headline_label": "Referenzen",
+  "caption_text": "Nachweislicher Einfluss auf globale Markenikonen und Herausforderermarken. Ich habe Marketing- und Markenstrategien für einige der weltweit angesehensten Unternehmen geleitet – darunter Audi, Bugatti, Rimac, Henkell Freixenet, Heineken und Gösser. Jede Zusammenarbeit geprägt von höchsten Standards, messbaren Ergebnissen und tiefem Marktverständnis. Mein internationaler Hintergrund ermöglicht es mir, kulturelle Nuancen und Marktdynamiken souverän zu navigieren.",
+  "globalExperienceDeclaration": "Berufliche Erfahrungen",
+  "strategicMarketSynopsis": "Strategie geformt durch globale Märkte, kulturelle Einsichten und praxisnahe Führung. Jeder Markt funktioniert anders – und Ihre Marketingstrategie sollte das auch.",
+  "crossMarketAdvantageNote": "Ich bringe tiefgehende Erfahrung aus Schlüsselmärkten in Europa und Asien mit, jeder mit eigenem Tempo, eigenen Vorschriften und Kunden­erwartungen. Diese länderübergreifende Expertise ermöglicht es mir, Strategien effektiv anzupassen und dabei stets im Einklang mit Ihren globalen Marken- und Unternehmenszielen zu bleiben.",
+   "exp_austria_title": "Porsche Holding / Porsche Austria – Salzburg, Österreich",
+  "exp_austria_desc": "Leiter Marketing Audi Österreich | Juni 2002 – September 2011",
+  "exp_austria_exp": "Verantwortlich für die 360° Marketingstrategie und deren Umsetzung in Österreich und CEE, inklusive Produkteinführungen, Verkaufsförderung, Händlerveranstaltungen und Sponsoring (z. B. Audi FIS Skiweltcup, Salzburger Festspiele). Digitale Innovationen wie Audi TV, Mobile Campaigns und den 3D Car Configurator initiiert.",
+  "exp_austria_award": "Auszeichnung des österreichischen Wirtschaftsministeriums für die quattro® Marken-Kampagne (Audi FIS Skiweltcup).",
+
+  "exp_germany_title": "Audi AG – Ingolstadt, Deutschland",
+  "exp_germany_desc": "Leiter Markenkommunikation & Erlebnis-Marketing | Oktober 2015 – Juli 2019",
+  "exp_germany_exp": "Verantwortlich für weltweite Markenerlebnisse und Kampagnen mit einem Budget von €65 Mio. und einem Absatzvolumen von 280.000 Fahrzeugen. Entwicklung preisgekrönter Marketingstrategien in den Bereichen Live-Events, Sportpartnerschaften und VIP-Aktivierungen. Stärkung der Markenbindung durch emotionale Geschichten, digitale Maßnahmen und enge Zusammenarbeit mit Vertrieb und Produktmanagement.",
+
+  "exp_croatia_france_title": "BUGATTI RIMAC d.o.o.– Zagreb & Molsheim",
+  "exp_croatia_france_desc": "Leiter Marketing & Produktmarketing | Juli 2022 – Dezember 2024",
+  "exp_croatia_france_exp": "Direkte Berichtslinie an CEO Mate Rimac. Verantwortung für globale Marketingstrategie, Teamentwicklung und Kampagnenumsetzung für beide Marken. Markenwachstum durch gezieltes Marketing, CRM für UHNW/HNW-Kunden und strategische Partnerschaften. Steuerung von Produktmarketing, KPIs und langfristiger Geschäftsplanung zur Erreichung von Umsatz- und Wachstumszielen.",
+
+  "exp_china_title": "FAW-Volkswagen Audi Vertriebsdivision China – Peking",
+  "exp_china_desc": "Vizepräsident PR & Marketing / Produktmarketing | August 2019 – April 2022",
+  "exp_china_exp": "Führung der Marken- und Marketingstrategie für Audi China in enger Abstimmung mit AUDI AG. Verwaltung eines Budgets von €300 Mio. und Leitung eines leistungsstarken Marketingteams. Zuständig für Markenpositionierung, Kampagnen, CRM und digitale Transformation – einschließlich der nationalen „e-tron Offensive“ und einer Marketing-Restrukturierung in mehreren Städten. Erzielung zweistelligen Wachstums bei Umsatz und EBIT im Geschäftsjahr 2022. Audi erreichte Platz 2 im Markenimage-Ranking in China.",
+
+  "exp_russia_title": "Volkswagen Group RUS / Audi Produktionsbereich – Russland",
+  "exp_russia_desc": "Direktor Marketing & Kommunikation | Oktober 2011 – September 2015",
+  "exp_russia_exp": "Entwicklung und Umsetzung einer integrierten Marketingstrategie in den Bereichen Digital, Events und Sponsoring – unter anderem für „Sotschi 2014“. Initiator der preisgekrönten Kampagne „Russland, Land des quattro“, die von 47 Audi-Märkten weltweit übernommen wurde. Fokus auf regionale Markenpositionierung von AWD-/4WD-SUVs.",
+  "exp_russia_award": "Global Effie Gold Award 2012/13 – American Marketing Association, New York"
+
+}

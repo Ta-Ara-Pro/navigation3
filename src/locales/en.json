@@ -1,0 +1,154 @@
+{
+  "interim": "Interim CMO & CBO",
+  "services": "Services",
+  "experience": "Experience",
+  "about": "About",
+  "keepInTouch": "Keep in Touch →",
+  "contact_title": "Get in touch",
+  "drop_message": "Drop me a message",
+  "response_note": "I will get back to you as soon as possible.",
+  "full_name": "Full Name",
+  "company_name": "Company Name",
+  "work_email": "Work Email",
+  "subject": "Subject",
+  "message": "Message",
+  "send": "Send",
+  "phone_label": "Support",
+  "email_label": "Booking Enquiry",
+  "about_title": "About THE BRAND NAVIGATION",
+  "about_intro_1": "Interim CMO & CBO services for brands in transition.",
+  "about_intro_2": "I lead marketing, brand, and MarTech with clarity, speed, and strategic focus.",
+  "about_deliver": "What I deliver:",
+  "about_items": [
+    "Clear positioning",
+    "Scalable strategy",
+    "Integrated MarTech",
+    "Aligned teams",
+    "Measurable growth"
+  ],
+  "about_impact": "Executive-level impact. When and where it matters.",
+  "step_marketing": "Interim Marketing",
+  "step_marketing2": "Leadership",
+  "step_reference": "References\n/Brands",
+  "step_target": "Target Group",
+  "step_collaborative": "Vision\nMission\nValues",
+  "interim-title": "Interim Marketing Leadership",
+    "intro": "I lead marketing through change – flexibly, fast, and outcome-focused.\nFrom transformation to market entry, I drive strategic clarity, execution, and continuity.",
+    "point1": "Core strength: C-level marketing leadership, Complex project delivery.",
+    "point2": "Industry focus: Automotive & mobility, B2B, hospitality.",
+    "point3": "Network: A trusted network of strategists, creatives, and tech specialists.",
+    "alt": {
+    "strategy": "Marketing Strategy",
+    "flag": "Flag Icon",
+    "health": "Health Icon",
+    "route": "Route Icon",
+    "network": "Network Icon"
+  },
+  "title": "Interim Marketing Leadership",
+  "intro_part1": "I lead marketing through change – flexibly, fast, and outcome-focused.",
+  "intro_part2": "From transformation to market entry, I drive strategic clarity, execution, and continuity.",
+  "points": {
+    "core_strength": {
+      "title": "Core strength:",
+      "description": "C-level marketing leadership, Complex project delivery."
+    },
+    "industry_focus": {
+      "title": "Industry focus:",
+      "description": "Automotive & mobility, B2B, hospitality."
+    },
+    "network": {
+      "title": "Network:",
+      "description": "A trusted network of strategists, creatives, and tech specialists."
+    }
+  },
+  "sectionTitle": "TARGET GROUPS",
+  "sectionSubtitle": "Driving Brand Power and Marketing Performance — at Every Stage of Growth",
+
+  "startup": {
+    "title": "Start-up",
+    "offerTitle": "Offer for Start-up",
+    "subtitle": "Building Strategy from Day One",
+    "points": [
+      "Develop a clear marketing strategy and positioning to launch with impact.",
+      "Build a distinctive, scalable brand identity across channels.",
+      "Create marketing frameworks that grow with your business.",
+      "Align product, marketing, and sales from the start.",
+      "Provide flexible, senior leadership without long-term overhead."
+    ]
+  },
+
+  "scaleups": {
+    "title": "Scale-ups",
+    "offerTitle": "Offer for Scale-ups",
+    "subtitle": "Structuring Growth for Success",
+    "points": [
+      "Strengthen marketing strategy to support fast expansion.",
+      "Professionalize brand management for consistency across markets.",
+      "Optimize marketing operations and internal collaboration.",
+      "Position innovation clearly to new and existing audiences.",
+      "Bring senior expertise to guide teams through scaling challenges."
+    ]
+  },
+
+  "established": {
+    "title": "Established",
+    "offerTitle": "Offer for Established",
+    "subtitle": "Refreshing Brand",
+    "points": [
+      "Reposition brand and marketing to adapt to changing markets.",
+      "Modernize brand management and customer experience strategies.",
+      "Break down silos between marketing, sales, and communications.",
+      "Lead digital transformation & AI initiatives aligned with brand goals.",
+      "Provide external leadership to drive change while preserving brand equity."
+    ]
+  },
+
+  "footer": {
+    "free": "Free",
+    "firstAppointment": "For the first appointment",
+    "cta": "Let's talk"
+  },
+  "leadership_main": "Collaborative Leadership",
+  "leadership_description": "My leadership style is inclusive and cross-functional – especially valuable during transformation, when alignment and clarity are key.",
+
+  "point_title_one": "Team Structuring",
+  "point_body_one": "I assess and optimize teams, close skill gaps, and align roles with strategic goals.",
+
+  "point_title_two": "Adaptability",
+  "point_body_two": "I quickly understand new industries and teams, driving change with clear strategy, strong communication, and sensitivity to context.",
+
+  "pillar_heading_one": "Mission",
+  "pillar_text_one": "I guide brands through change with clarity, creativity, and data-driven thinking—turning strategy into a compass, not a constraint.",
+
+  "pillar_heading_two": "Vision",
+  "pillar_text_two": "I believe in brand leadership as proactive navigation – agile, inspiring, and future-focused. Flexible brands create meaningful progress.",
+
+  "pillar_heading_three": "Values",
+  "pillar_text_three": "Agility – Change is the norm; adaptability is key. Foresight – I connect strategy with cultural and tech shifts. Clarity – Clear positioning and a distinct voice matter. Partnership – I work collaboratively, with trust and shared purpose. Strategy is a horizon, not a fixed route.",
+  "headline_label": "References",
+  "caption_text": "Proven impact across global icons and challenger brands. I’ve led marketing and brand strategy for some of the world’s most respected companies—including Audi, Bugatti, Rimac, Henkell Freixenet, Heineken, and Gösser. Each engagement shaped by high standards, real results, and deep market understanding. My international background helps me navigate diverse cultural nuances and market dynamics.",
+   "globalExperienceDeclaration": "Professional Experience",
+  "strategicMarketSynopsis": "Strategy shaped by global markets, cultural insight, and hands-on leadership. Every market operates differently – and so should your marketing.",
+  "crossMarketAdvantageNote": "I bring in-depth experience from key European and Asian markets, each with its own pace, regulations, and customer expectations. This cross-market insight allows me to adapt strategies effectively while staying aligned with your global brand and business goals.",
+  "exp_austria_title": "Porsche Holding / Porsche Austria – Salzburg, Austria",
+  "exp_austria_desc": "Head of Audi Marketing Austria | Jun 2002 – Sep 2011",
+  "exp_austria_exp": "Led 360° marketing strategy and execution across Austria and CEE, including product launches, sales promotions, dealer events, and sponsorships (e.g., Audi FIS Ski World Cup, Salzburg Festival). Pioneered digital tools like Audi TV, mobile campaigns, and the 3D Car Configurator.",
+  "exp_austria_award": "Awarded by the Austrian Ministry for the quattro® brand campaign (Audi FIS Skiweltcup).",
+
+  "exp_germany_title": "Audi AG – Ingolstadt, Germany",
+  "exp_germany_desc": "Head of Brand Communication & Experiential Marketing | Oct 2015 – Jul 2019",
+  "exp_germany_exp": "Lead global brand experiences and campaigns with a €65M budget and 280K-unit sales volume. Delivered award-winning marketing strategies across live events, sports partnerships, and VIP activations. Strengthened product loyalty and brand recognition through emotional storytelling, digital engagement, and close collaboration with sales and product teams.",
+
+  "exp_croatia_france_title": "BUGATTI RIMAC d.o.o.– Zagreb & Molsheim",
+  "exp_croatia_france_desc": "Head of Marketing & Product Marketing | Jul 2022 – Dec 2024",
+  "exp_croatia_france_exp": "Reported directly to CEO Mate Rimac, leading global marketing strategy, team building, and campaign execution for both brands. Delivered brand growth through targeted marketing, CRM for UHNW/HNW clients, and strategic partnerships. Oversaw product marketing, KPIs, and long-term business planning to align with revenue and growth goals.",
+
+  "exp_china_title": "FAW-Volkswagen Audi Sales Division China – Beijing",
+  "exp_china_desc": "Vice President PR & Marketing / Product Marketing | Aug 2019 – Apr 2022",
+  "exp_china_exp": "Lead brand and marketing strategy for Audi China, aligning with AUDI AG. Managed a €300M budget and a high-performing marketing team. Oversaw brand positioning, campaigns, CRM, and digital transformation - including the national “e-tron Offensive” and a multi-city marketing restructure. Delivered double-digit revenue and EBIT growth in FY2022, elevating Audi to #2 in brand image across China.",
+
+  "exp_russia_title": "Volkswagen Group RUS / Audi Manufacturing Division – Russia",
+  "exp_russia_desc": "Marketing & Communications Director | Oct 2011 – Sep 2015",
+  "exp_russia_exp": "Lead integrated marketing strategy across digital, events, and sponsorship - including „Sochi 2014“. Created the award-winning “Russia, Land of quattro” campaign, adopted by 47 Audi markets worldwide. Focused on regional brand positioning for AWD/4WD SUV vehicles",
+  "exp_russia_award": "Global Effie Gold Award 2012/13 – NY American Marketing Association"
+}
