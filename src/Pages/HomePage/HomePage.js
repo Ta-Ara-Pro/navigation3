@@ -18,7 +18,7 @@ const HomePage = () => {
     const [rotation, setRotation] = useState('0deg');
     const [width, setWidth] = useState('38%');
     const [height, setHeight] = useState('45%');
-
+ 
     // useEffect(() => {
     //     const updateRotation = () => {
     //         const width = window.innerWidth;
